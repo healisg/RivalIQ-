@@ -1,8 +1,8 @@
-# RivalIQ 
+# Rival IQ 
 
 **AI-powered competitive intelligence for B2B sales teams.**
 
-RivalIQ helps sales teams generate spec-level product comparisons and 
+Rival IQ helps sales teams generate spec-level product comparisons and 
 automated battlecards — turning raw product data into the kind of 
 competitive insight that used to take hours of manual research.
 
@@ -10,7 +10,7 @@ competitive insight that used to take hours of manual research.
 ## What it does
 
 Sales teams ask natural-language questions ("how does our product compare 
-to X on these specs?") and RivalIQ returns a structured comparison table 
+to X on these specs?") and Rival IQ returns a structured comparison table 
 alongside an AI-generated narrative — streamed in real time so the table 
 appears instantly and the narrative builds token-by-token.
 
